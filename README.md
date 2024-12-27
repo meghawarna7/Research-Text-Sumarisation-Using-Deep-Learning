@@ -9,15 +9,6 @@
 ### Summary length comparison
 ![Summary Length Comparison](rr2.jpg)
 
-### Image 3
-![](path/to/image3.png)
-
-### Image 4
-![](path/to/image4.png)
-
-### Image 5
-![](path/to/image5.png)
-
 ### Supporting Visualizations
 ![b1](b1.jpg)
 ![b2_ (1)](b2_%20(1).jpg)
