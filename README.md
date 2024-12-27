@@ -1,12 +1,13 @@
-# Research-Text-Sumarisation-Using-Deep-Learning
+
+# Research: Text Summarisation Using Deep Learning
 
 ## Images
 
-### Image 1
-![Image 1 Description](path/to/image1.png)
+### ROUGUE score comparison
+![ROUGE Score Comparison](rr1.jpg)
 
-### Image 2
-![Image 2 Description](path/to/image2.png)
+### Summary length comparison
+![Summary Length Comparison](rr2.jpg)
 
 ### Image 3
 ![Image 3 Description](path/to/image3.png)
@@ -16,3 +17,17 @@
 
 ### Image 5
 ![Image 5 Description](path/to/image5.png)
+
+### Supporting Visualizations
+![b1](b1.jpg)
+![b2_ (1)](b2_%20(1).jpg)
+![b2_ (2)](b2_%20(2).jpg)
+![b3](b3.jpg)
+![data1](data1.jpg)
+![data2](data2.jpg)
+![p1](p1.jpg)
+![p3](p3.jpg)
+![r3](r3.jpg)
+![t51](t51.jpg)
+![t52](t52.jpg)
+![t53](t53.jpg)
