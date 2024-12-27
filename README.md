@@ -10,13 +10,13 @@
 ![Summary Length Comparison](rr2.jpg)
 
 ### Image 3
-![Image 3 Description](path/to/image3.png)
+![](path/to/image3.png)
 
 ### Image 4
-![Image 4 Description](path/to/image4.png)
+![](path/to/image4.png)
 
 ### Image 5
-![Image 5 Description](path/to/image5.png)
+![](path/to/image5.png)
 
 ### Supporting Visualizations
 ![b1](b1.jpg)
